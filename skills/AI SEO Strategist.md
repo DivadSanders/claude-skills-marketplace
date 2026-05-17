@@ -1,5 +1,5 @@
 ---
-name: AI Search Optimization
+name: AI SEO Strategist
 description: >
   Optimize any article, Substack post, or blog draft for AI Engine Optimization (AEO) —
   so ChatGPT, Perplexity, Claude, and Gemini can extract, cite, and quote it.
@@ -18,7 +18,7 @@ version: 1.0.0
 author: DivadSanders
 ---
 
-# AI Search Optimization
+# AI SEO Strategist
 
 > Score your article. Restructure it. Watch AI models start citing you instead of someone else.
 
