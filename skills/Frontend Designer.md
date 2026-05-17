@@ -1,5 +1,5 @@
 ---
-name: design-taste-frontend
+name: Frontend Designer
 description: "When the user wants a high-agency frontend build with explicit control over design variance, motion intensity, and visual density. Use when the user wants to tune how creative vs. structured, how animated vs. static, or how dense vs. airy their UI should be — or when they want premium React/Next.js components that avoid generic AI defaults."
 category: design
 tags: [frontend, React, Next.js, Tailwind, motion, design-system, high-agency, Framer-Motion]
@@ -7,7 +7,7 @@ version: 2.0.0
 author: DivadSanders
 ---
 
-# Design Taste Frontend
+# Frontend Designer
 
 > High-agency frontend with tunable dials. Set the variance, motion, and density you want — Claude adapts every decision to match.
 
