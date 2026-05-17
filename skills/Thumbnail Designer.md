@@ -1,5 +1,5 @@
 ---
-name: Cover Image Studio
+name: Thumbnail Designer
 description: >
   Generate a brand-consistent cover image or thumbnail for a blog post, Substack article,
   or newsletter. Use this skill when the user asks for a thumbnail, cover image, hero image,
@@ -16,7 +16,7 @@ version: 1.0.0
 author: DivadSanders
 ---
 
-# Cover Image Studio
+# Thumbnail Designer
 
 > Read the article. Design the scene. Generate the cover — brand-consistent, every time.
 
