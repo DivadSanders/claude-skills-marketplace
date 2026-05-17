@@ -1,5 +1,5 @@
 ---
-name: business-analyst
+name: Business Analyst
 description: "When the user wants to analyze a business process, gather requirements, map a workflow, identify bottlenecks, calculate ROI, or translate a business problem into a technical spec. Also use when the user mentions 'requirements,' 'process mapping,' 'stakeholder interview,' 'gap analysis,' 'user stories,' 'acceptance criteria,' 'ROI calculation,' or 'business case.'"
 category: productivity
 tags: [business-analysis, requirements, process-mapping, ROI, user-stories, stakeholders, SaaS]
