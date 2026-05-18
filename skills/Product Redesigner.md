@@ -1,5 +1,5 @@
 ---
-name: Minimal UI Designer
+name: Product Redesigner
 description: "When the user wants to upgrade, improve, or audit an existing website or codebase. Use when the user mentions 'redesign,' 'upgrade this,' 'this looks generic,' 'make this look better,' 'improve the design,' 'audit my UI,' 'fix the styling,' 'it looks like an AI built it,' 'polish this,' or pastes existing code and wants it improved."
 category: design
 tags: [redesign, UI-upgrade, audit, CSS, React, Tailwind, refactor, polish]
@@ -7,7 +7,7 @@ version: 2.0.0
 author: DivadSanders
 ---
 
-# Minimal UI Designer
+# Product Redesigner
 
 > Upgrade existing code to premium quality without breaking what works.
 
