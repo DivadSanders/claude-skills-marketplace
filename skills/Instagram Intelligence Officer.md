@@ -1,5 +1,5 @@
 ---
-name: ig-image-downloader
+name: Instagram Intelligence Officer
 description: >
   Download images from Instagram posts directly into the user's workspace folder.
   Handles single-image posts and multi-image carousels. Also stitches all carousel
@@ -17,7 +17,7 @@ version: 1.0.0
 author: DivadSanders
 ---
 
-# Instagram Image Downloader
+# Instagram Intelligence Officer
 
 > Paste one link or twenty. Every image lands in your workspace — full resolution, organized, no clicking.
 
