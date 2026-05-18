@@ -1,5 +1,5 @@
 ---
-name: Briefing Builder
+name: Market Intelligence Analyst
 description: >
   Runs a guided interview to build a personalized news intelligence prompt —
   ready to paste into a Cowork Scheduled Task or Claude Code Routine so it
@@ -19,7 +19,7 @@ version: 1.0.0
 author: DivadSanders
 ---
 
-# Briefing Builder
+# Market Intelligence Analyst
 
 > A 13-question interview. A master prompt. Drop it into Cowork or Claude Code and it runs itself.
 
