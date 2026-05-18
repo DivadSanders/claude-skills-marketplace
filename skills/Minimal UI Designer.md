@@ -1,5 +1,5 @@
 ---
-name: minimalist-ui
+name: Minimal UI Designer
 description: "When the user wants to build a clean, editorial, warm-monochrome UI — no gradients, no generic SaaS look, no heavy shadows. Use when the user mentions 'minimalist,' 'editorial,' 'clean design,' 'Notion-style,' 'Linear-style,' 'monochrome,' 'document-style interface,' or wants something that looks expensive without looking loud."
 category: design
 tags: [UI, frontend, minimalist, editorial, design-system, CSS, React, HTML]
@@ -7,7 +7,7 @@ version: 2.0.0
 author: DivadSanders
 ---
 
-# Minimalist UI
+# Minimal UI Designer
 
 > Editorial, warm-monochrome interfaces. High typographic contrast, flat bento grids, muted pastel accents. The anti-SaaS aesthetic.
 
