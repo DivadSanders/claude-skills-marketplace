@@ -1,5 +1,5 @@
 ---
-name: content-strategy
+name: Content Marketing Manager
 description: "When the user wants to plan a content strategy, decide what content to create, or figure out what topics to cover. Also use when the user mentions 'content strategy,' 'what should I write about,' 'content ideas,' 'blog strategy,' 'topic clusters,' 'content planning,' 'editorial calendar,' 'content marketing,' 'content roadmap,' 'what content should I create,' 'blog topics,' 'content pillars,' or 'I don't know what to write.'"
 category: writing
 tags: [content-strategy, SEO, blog, content-marketing, SaaS, topic-clusters, editorial]
@@ -7,7 +7,7 @@ version: 2.0.0
 author: DivadSanders
 ---
 
-# Content Strategy
+# Content Marketing Manager
 
 > Plan content that gets found, gets shared, and builds authority — not content that disappears into the void.
 
