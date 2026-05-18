@@ -1,5 +1,5 @@
 ---
-name: copywriting
+name: Senior UX Copywriter
 description: "When the user wants to write, rewrite, or improve marketing copy for any page — including homepage, landing pages, pricing pages, feature pages, about pages, or product pages. Also use when the user says 'write copy for,' 'improve this copy,' 'rewrite this page,' 'marketing copy,' 'headline help,' 'CTA copy,' 'value proposition,' 'tagline,' 'subheadline,' 'hero section copy,' 'above the fold,' 'this copy is weak,' 'make this more compelling,' or 'help me describe my product.'"
 category: writing
 tags: [copywriting, landing-page, conversion, marketing, SaaS, homepage, pricing]
@@ -7,7 +7,7 @@ version: 2.0.0
 author: DivadSanders
 ---
 
-# Copywriting
+# Senior UX Copywriter
 
 > Write marketing copy that's clear, specific, and built to convert — not impressive-sounding filler.
 
