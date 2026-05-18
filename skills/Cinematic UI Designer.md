@@ -1,5 +1,5 @@
 ---
-name: Cinematic Designer
+name: Cinematic UI Designer
 description: "When the user wants to build agency-level, premium UI — with cinematic motion, haptic depth, and Awwwards-tier aesthetics. Use when the user mentions 'premium design,' 'agency quality,' 'high-end UI,' 'Vercel-style,' 'Linear-style,' 'Awwwards,' 'micro-animations,' 'glass morphism,' 'dark mode,' 'expensive-looking,' or 'make it look like a $150k agency built it.'"
 category: design
 tags: [UI, premium, agency-level, motion, React, Tailwind, dark-mode, micro-interactions, awwwards]
@@ -7,7 +7,7 @@ version: 2.0.0
 author: DivadSanders
 ---
 
-# Cinematic Designer
+# Cinematic UI Designer
 
 > Agency-level digital experiences. Haptic depth, cinematic motion, obsessive micro-interactions — never the same layout twice.
 
