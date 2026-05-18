@@ -1,5 +1,5 @@
 ---
-name: full-output-enforcement
+name: Precision Build Strategist
 description: "When the user needs complete, unabridged output — full files, all components, every function, no skipping. Use when the user says 'write the full file,' 'don't skip anything,' 'complete implementation,' 'no placeholders,' 'I need the whole thing,' or when the task clearly requires exhaustive output (full codebases, complete documents, all sections)."
 category: productivity
 tags: [output-quality, completeness, code, no-truncation, production, full-file]
@@ -7,7 +7,7 @@ version: 2.0.0
 author: DivadSanders
 ---
 
-# Full Output Enforcement
+# Precision Build Strategist
 
 > A partial output is a broken output. This skill eliminates truncation, placeholders, and incomplete implementations entirely.
 
